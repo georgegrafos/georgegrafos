@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm George Grafos! I'm a web developer focused on creating modern, user-friendly web solutions.
 
-<!--
-**georgegrafos/georgegrafos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+With a Bachelor's degree in Computer Science and over 5 years of experience, I specialize in building web applications tailored to meet user needs. My expertise lies in working with React, Next.js, and Node.js to create user-friendly and performant web solutions. I’m passionate about staying updated on the latest technologies and continuously improving my craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills 🛠️
+
+Languages: JavaScript, TypeScript
+
+Frameworks & Libraries: React, Next.js, Node.js, NestJS
+
+Databases: MongoDB
+
+
+## Connect with Me 📬
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/georgegrafos/)
