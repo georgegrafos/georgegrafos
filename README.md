@@ -6,11 +6,9 @@ With a Bachelor's degree in Computer Science and over 5 years of experience, I s
 
 ## Technical Skills 🛠️
 
-Languages: JavaScript, TypeScript
+Frontend development: React, Next.js, MobX, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
 
-Frameworks & Libraries: React, Next.js, Node.js, NestJS
-
-Databases: MongoDB
+Backend development: Node.js, NestJS, MongoDB, Mongoose
 
 
 ## Connect with Me 📬
